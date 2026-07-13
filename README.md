@@ -11,4 +11,4 @@ Welcome to my GitHub profile!
 - Cybersecurity
 - Ethical hacking
 - Continuous learning in tech
-- Coffee + code sessions
+- Coffee

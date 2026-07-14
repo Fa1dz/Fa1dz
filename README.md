@@ -1,4 +1,4 @@
-# Hi, I'm Fa1dz 👋
+# Hi, I'm Liam 👋
 
 Welcome to my GitHub profile!
 

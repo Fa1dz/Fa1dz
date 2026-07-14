@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 Heres my website: https://fa1dz.github.io/
-[gitfut.com/Fa1dz.png]	
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)]	
 
 ## About Me
 - 🔐 I'm interested in cybersecurity and learning how to build more secure systems.

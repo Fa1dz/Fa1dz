@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile!
 Heres my website: https://fa1dz.github.io/
+
 <a href="https://gitfut.com/Fa1dz">
   <img src="https://gitfut.com/Fa1dz.png" alt="My GitFut card" width="200">
 </a>

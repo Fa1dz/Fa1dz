@@ -6,7 +6,9 @@ Heres my website: https://fa1dz.github.io/
 <a href="https://gitfut.com/Fa1dz">
   <img src="https://gitfut.com/Fa1dz.png" alt="My GitFut card" width="200">
 </a>
+
 https://gitfut.com/Fa1dz
+
 ## About Me
 - 🔐 I'm interested in cybersecurity and learning how to build more secure systems.
 - 💻 I enjoy exploring tech, tools, and other things and new ideas.
